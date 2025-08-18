@@ -9,3 +9,4 @@ arxiv
 pymupdf
 rich 
 langchain-text-splitters
+langchain-openai
