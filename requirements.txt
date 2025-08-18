@@ -2,7 +2,7 @@ ipykernel
 langchain
 pydantic 
 python-dotenv
-langchain_community
+langchain-community
 pypdf 
 bs4
 arxiv
