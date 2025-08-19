@@ -12,3 +12,5 @@ langchain-text-splitters
 langchain-openai
 chromadb
 langchain-groq
+beautifulsoup4
+faiss-cpu
