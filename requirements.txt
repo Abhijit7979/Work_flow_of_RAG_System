@@ -11,3 +11,4 @@ rich
 langchain-text-splitters
 langchain-openai
 chromadb
+langchain-groq
