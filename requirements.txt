@@ -1,6 +1,6 @@
 ipykernel
 langchain
-pydantic 
+pydantic
 python-dotenv
 langchain-community
 pypdf 
@@ -15,3 +15,7 @@ langchain-groq
 beautifulsoup4
 faiss-cpu
 streamlit
+fastapi
+uvicorn
+langserve[all]
+sse_starlette
