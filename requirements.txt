@@ -14,3 +14,4 @@ chromadb
 langchain-groq
 beautifulsoup4
 faiss-cpu
+streamlit
