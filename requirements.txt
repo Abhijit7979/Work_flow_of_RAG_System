@@ -19,3 +19,4 @@ fastapi
 uvicorn
 langserve[all]
 sse_starlette
+transformers
