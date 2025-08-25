@@ -20,3 +20,5 @@ uvicorn
 langserve[all]
 sse_starlette
 transformers
+langchain_chroma
+langchain_ollama
